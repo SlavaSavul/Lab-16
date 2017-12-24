@@ -1,0 +1,46 @@
+D:\3сем\ООП1\OOP1_Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe.config
+D:\3сем\ООП1\OOP1_Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe
+D:\3сем\ООП1\OOP1_Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.pdb
+D:\3сем\ООП1\OOP1_Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.exe
+D:\3сем\ООП1\OOP1_Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab10\OOPLab10\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab11\OOPLab10\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab12\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab13\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\obj\Debug\OOPLab10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab15\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\bin\Debug\OOPLab10.exe.config
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\obj\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\obj\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\bin\Debug\OOPLab10.exe
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\bin\Debug\OOPLab10.pdb
+C:\Users\User\Desktop\Lab OOP\Lab16\OOPLab10\obj\Debug\OOPLab10.csprojResolveAssemblyReference.cache

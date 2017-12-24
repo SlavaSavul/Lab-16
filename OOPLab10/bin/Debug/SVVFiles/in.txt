@@ -1,0 +1,4 @@
+integer function s(integer x);
+main{ 
+output s(2);
+return 0;};

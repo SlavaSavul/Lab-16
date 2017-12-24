@@ -1,0 +1,51 @@
+
+using	'STRING.h' \strlen(string) | substr(string,integer,integer)
+using   'MATH.h' \pow(integer,integer) | sqrt(integer) | abs(integer)
+
+integer function svv( integer x, integer y,integer z)
+{
+new integer result;
+result=x*y+(x-z)*abs(y)-pow(2,z)/sqrt(16); 
+return result; 
+};
+
+string function concat( string st)
+{ 
+return st+substr('123456789',2,3)+'!!!'; 
+};
+
+proc hello()
+{
+new string name;
+output 'Enter your name';
+input name;
+output 'Hello, '+name+'!';
+};
+
+
+main
+{
+hello();
+ new integer x;
+ new integer y;
+ new integer z;
+ new string st;
+
+z=4;
+output 'Enter x';
+input x;
+output 'Enter y';
+input y;
+output svv(x,y,z);
+input st;
+output concat(st);
+
+
+return 0;
+};
+
+
+
+
+
+
